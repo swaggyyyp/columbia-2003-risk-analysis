@@ -5,5 +5,5 @@ The event culminated from a series of decisisons that was influenced through org
 Organizational Leadership & Risk Analaysis Review: Through the models and Fault Tree Map address the technical aspects of failure, the root cause enabling theses series of mistakes lay in management. This section evaluates the behavioral and structural dynamics within the NASA Mission Management Team (MMT) that permitted the normalization of deviance. 
 A critical leadership failure identified in the Columbia Accident Investigation Board (CAIB) report was the shift in the "burden of proof." In a healthy safety culture, operations are assumed unsafe until proven safe. Under the STS-107 MMT leadership, this paradigm was inverted: engineers felt a pressure to prove definitively that the foam strike *would* cause a catastrophic failure, rather than management requiring proof that the orbiter was safe to fly.
 Overall, this was truly an enjoyable project for me and please feel free to review/critique! I'm really eager to learn and new to GitHub as well.
--sub3simp
+-truesimp
 # Columbia Accident Investigation Board(CAIB) Review
